@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 75px;
+  color: rgb(136, 136, 136);
+  text-shadow: 2px 2px 4px #000;
+}
 
 .App-logo {
   height: 40vmin;
