@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/search-monsters/static/css/main.c66cdea7.chunk.css",
-    "main.js": "/search-monsters/static/js/main.565ba9c2.chunk.js",
-    "main.js.map": "/search-monsters/static/js/main.565ba9c2.chunk.js.map",
+    "main.js": "/search-monsters/static/js/main.d69465d0.chunk.js",
+    "main.js.map": "/search-monsters/static/js/main.d69465d0.chunk.js.map",
     "runtime-main.js": "/search-monsters/static/js/runtime-main.0046e25c.js",
     "runtime-main.js.map": "/search-monsters/static/js/runtime-main.0046e25c.js.map",
     "static/js/2.61452a99.chunk.js": "/search-monsters/static/js/2.61452a99.chunk.js",
     "static/js/2.61452a99.chunk.js.map": "/search-monsters/static/js/2.61452a99.chunk.js.map",
     "index.html": "/search-monsters/index.html",
-    "precache-manifest.602bf3763038d51e2f9cfb3b1f621388.js": "/search-monsters/precache-manifest.602bf3763038d51e2f9cfb3b1f621388.js",
+    "precache-manifest.9daadae2b5d61b9f0e3346232fd62939.js": "/search-monsters/precache-manifest.9daadae2b5d61b9f0e3346232fd62939.js",
     "service-worker.js": "/search-monsters/service-worker.js",
     "static/css/main.c66cdea7.chunk.css.map": "/search-monsters/static/css/main.c66cdea7.chunk.css.map",
     "static/js/2.61452a99.chunk.js.LICENSE.txt": "/search-monsters/static/js/2.61452a99.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0046e25c.js",
     "static/js/2.61452a99.chunk.js",
     "static/css/main.c66cdea7.chunk.css",
-    "static/js/main.565ba9c2.chunk.js"
+    "static/js/main.d69465d0.chunk.js"
   ]
 }
